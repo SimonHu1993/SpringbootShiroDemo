@@ -3,6 +3,13 @@
 
 - 管理后台基于人人开源框架（[人人开源](https://www.renren.io)：https://www.renren.io ）进行修改》
 
+很值得推荐的权限基础框架（无业务耦合），针对原有框架进行优化，后期业务再此进行拓展即可。
+
+技术栈：
+
+前端：Vue2.x,Layui,Ztree,TreeTable,Jqgrid;
+
+服务端：Springboot2.x,Shiro,Redis,MybatisPlus,Ehcache。
 > 1.所有菜单操作添加缓存@cacheable，避免频繁数据库操作；
 > 
 > 2.优化项目内sql循环查询，频繁数据库io操作；
@@ -37,6 +44,8 @@
 
     阿里云服务器带宽有限，虽然使用缓存，还是会不那么顺滑- -
 示例：
+![](http://www.simonjia.top:8082/appimages/admin_head/%E5%9B%BE%E7%89%875.png)
+![](http://www.simonjia.top:8082/appimages/admin_head/%E5%9B%BE%E7%89%876.png)
 ![](http://www.simonjia.top:8082/appimages/admin_head/%E5%9B%BE%E7%89%871.png)
 ![](http://www.simonjia.top:8082/appimages/admin_head/%E5%9B%BE%E7%89%872.png)
 ![](http://www.simonjia.top:8082/appimages/admin_head/%E5%9B%BE%E7%89%873.png)
