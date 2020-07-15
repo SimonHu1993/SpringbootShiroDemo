@@ -1,5 +1,5 @@
 # SpringbootShiroDemo
-SpringbootShiroDemo
+
 
 - 管理后台基于人人开源框架（[人人开源](https://www.renren.io)：https://www.renren.io ）进行修改》
 
@@ -23,13 +23,17 @@ SpringbootShiroDemo
 > 
 > 10.物理删除修改为逻辑删除；
 > 
-> 11.动态修改个人信息。
+> 11.动态修改个人信息，不用下线退出。
+
+----------
+
+- **其他模块没有做修改，自动代码生成，可以作为本地开发辅助工具，提高敲码效率。**
 
 演示地址：[http://www.simonjia.top:8080/admin/index.html](http://www.simonjia.top:8080/admin/index.html) 
 账号：admin001
 密码：admin001
 
-请勿修改密码：防止他人不能登录。
+<font size=5 color=red>**请勿修改密码：防止他人不能登录。**</font>
 
     阿里云服务器带宽有限，虽然使用缓存，还是会不那么顺滑- -
 示例：
