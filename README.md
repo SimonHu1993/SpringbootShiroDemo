@@ -23,7 +23,7 @@ SpringbootShiroDemo
 > 
 > 10.物理删除修改为逻辑删除；
 > 
-> 11.动态修改个人信息
+> 11.动态修改个人信息。
 
 演示地址：[http://www.simonjia.top:8080/admin/index.html](http://www.simonjia.top:8080/admin/index.html) 
 账号：admin001
