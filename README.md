@@ -36,7 +36,7 @@
 
 - **其他模块没有做修改，自动代码生成，可以作为本地开发辅助工具，提高敲码效率。**
 
-演示地址：[http://www.simonjia.top:8080/admin/index.html](http://www.simonjia.top:8080/admin/index.html) 
+演示地址：[http://www.simonjia.top/admin/login.html](http://www.simonjia.top/admin/index.html) 
 账号：admin001
 密码：admin001
 
