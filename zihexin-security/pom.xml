@@ -1,13 +1,13 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.zihexin</groupId>
-    <artifactId>zihexin-security</artifactId>
+    <groupId>com.simonhu</groupId>
+    <artifactId>simonhu-security</artifactId>
     <version>4.0.0</version>
     <packaging>pom</packaging>
 
-    <name>zihexin-security</name>
-    <url>https://www.zihexin.net/</url>
+    <name>simonhu-security</name>
+    <url>https://www.simonhu.net/</url>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -16,11 +16,11 @@
 	</parent>
 
     <modules>
-        <module>zihexin-common</module>
-        <module>zihexin-admin</module>
-        <module>zihexin-api</module>
-		<module>zihexin-dynamic-datasource</module>
-        <module>zihexin-generator</module>
+        <module>simonhu-common</module>
+        <module>simonhu-admin</module>
+        <module>simonhu-api</module>
+		<module>simonhu-dynamic-datasource</module>
+        <module>simonhu-generator</module>
     </modules>
 
     <properties>
