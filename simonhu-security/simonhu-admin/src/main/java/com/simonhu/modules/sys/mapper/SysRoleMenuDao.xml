@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.simonhu.modules.sys.dao.SysRoleMenuDao">
+    <select id="queryMenuIdList" resultType="long">
+		select menu_id from sys_role_menu where role_id = #{value} and del_flag = 0
+	</select>
+    <!--逻辑删除-->
+    <update id="deleteBatch">
+        update sys_role_menu set del_flag = -1 where role_id in
+        <foreach item="roleId" collection="array" open="(" separator="," close=")">
+            #{roleId}
+        </foreach>
+    </update>
+
+
+    <insert id="saveRoleMenuBatch">
+        insert into sys_role_menu(role_id,menu_id)
+        values
+        <foreach collection="list" item="m" index="index" separator=",">
+            (#{m.roleId},#{m.menuId})
+        </foreach>
+    </insert>
+</mapper>
