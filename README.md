@@ -44,9 +44,9 @@
 
     阿里云服务器带宽有限，虽然使用缓存，还是会不那么顺滑- -
 示例：
-![](http://www.simonjia.top:8082/appimages/admin_head/%E5%9B%BE%E7%89%875.png)
-![](http://www.simonjia.top:8082/appimages/admin_head/%E5%9B%BE%E7%89%876.png)
-![](http://www.simonjia.top:8082/appimages/admin_head/%E5%9B%BE%E7%89%871.png)
-![](http://www.simonjia.top:8082/appimages/admin_head/%E5%9B%BE%E7%89%872.png)
-![](http://www.simonjia.top:8082/appimages/admin_head/%E5%9B%BE%E7%89%873.png)
-![](http://www.simonjia.top:8082/appimages/admin_head/%E5%9B%BE%E7%89%874.png)
+![](http://www.simonjia.top/appimages/admin_head/%E5%9B%BE%E7%89%875.png)
+![](http://www.simonjia.top/appimages/admin_head/%E5%9B%BE%E7%89%876.png)
+![](http://www.simonjia.top/appimages/admin_head/%E5%9B%BE%E7%89%871.png)
+![](http://www.simonjia.top/appimages/admin_head/%E5%9B%BE%E7%89%872.png)
+![](http://www.simonjia.top/appimages/admin_head/%E5%9B%BE%E7%89%873.png)
+![](http://www.simonjia.top/appimages/admin_head/%E5%9B%BE%E7%89%874.png)
